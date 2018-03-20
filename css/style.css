@@ -1,0 +1,42 @@
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+      font-size: 25px;
+      padding: 5px;
+    }
+    .jumbotron {
+background: #358CCE;
+color: #FFF;
+border-radius: 0px;
+}
+.jumbotron-sm { padding-top: 24px;
+padding-bottom: 24px; }
+.jumbotron small {
+color: #FFF;
+}
+h2{
+  font-family: 'Kaushan Script', cursive;
+  padding-top: 50px;
+}
+.scroll-top {
+   position:fixed;
+   bottom:0;
+   right:6%;
+   z-index:100;
+   background: #f2f3f2;
+   font-size:24px;
+   border-top-left-radius:3px;
+   border-top-right-radius:3px;
+}
+.scroll-top a:link,.scroll-top a:visited {
+  color:#222;
+} 
+
+#footer{background:#262626; padding-top:30px; padding-bottom:30px; text-align:center; border-top:solid 4px #303;}
+#footer p{padding:10px; color:#cccccc;}
+.social a{color:#FFF; font-size:18px !important}
+.social i.fa{height:36px; width:36px; text-align:center; line-height:36px; background:#069; border-radius:50%;}
+.social i.fa.fa-facebook{background:#43609C;}
+.social i.fa.fa-twitter{background:#2CA8D2;}
+.social i.fa.fa-linkedin{background:#428099;}
+.social i.fa.fa-google-plus{background:#ce4d39;}
